@@ -3,8 +3,7 @@
 Vault Verse is an online E-book library management system designed to efficiently manage library operations and provide an intuitive interface for users and librarians. This system allows users to browse, search, issue books, and provide feedback, while librarians have administrative privileges to manage the entire library system.
 
 ## Demo Video
-[Demo Video]([(https://drive.google.com/file/d/1bloi4hhxIc_XCYRljTyF-HtsN7OLeWO9/view?usp=drive_link))
-
+[Demo Video]([link_to_demo_video](https://drive.google.com/file/d/1bloi4hhxIc_XCYRljTyF-HtsN7OLeWO9/view?usp=drive_link))
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Technologies Used](#technologies-used)
